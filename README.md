@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![html5](https://img.shields.io/badge/-PHP-E34F26?style=flat-round&logo=html5&logoColor=white)
+![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-round&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-round&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat-round&logo=javascript)
 ![php](https://img.shields.io/badge/-PHP-563D7C?style=flat-round&logo=php)
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ---
 
-![audioprocessing](https://img.shields.io/badge/Audio-Processing-lightgrey) ![html5](https://img.shields.io/badge/Audio-Mastering-lightgrey)
+![audioprocessing](https://img.shields.io/badge/Audio-Processing-lightgrey) ![audiomastering](https://img.shields.io/badge/Audio-Mastering-lightgrey) ![audioprocessing](https://img.shields.io/badge/Audio-Toolset-lightgrey) ![audiomastering](https://img.shields.io/badge/Audio-Plugins-lightgrey) ![audiomastering](https://img.shields.io/badge/Audio-DAW-lightgrey) ![audiomastering](https://img.shields.io/badge/Audio-VST-lightgrey)
