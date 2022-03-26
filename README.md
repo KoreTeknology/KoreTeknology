@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-round&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-round&logo=mysql)
 
+---
+
+![audioprocessing](https://img.shields.io/badge/Audio-Processing-lightgrey) ![html5](https://img.shields.io/badge/Audio-Mastering-lightgrey)
