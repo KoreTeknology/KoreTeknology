@@ -8,13 +8,13 @@ I produce multimedia contents from 1991 for many companies or organisations, pub
 - Open-source softwares: Linux ubuntu multimedia
 - Graphic design:, architecture, design, art
 - Web development: Html/css and Javascript/Jquery mobile/Map
+- C++, Python and JSON Coding for Media production softwares
 - Music/video production and analog studio recordings
 - 3d animation: modeling, texturing, storyboarding, 
 - XML, PHP, MySQL/PostgreSQL, Flash Actionscript
 - CSS Web Design: Templates, themes and custom widgets
 - Javascript libraries: JQuery, Leaflet, Bootstrap,and more...
 - CMS Joomla, OsClass, Wordpress, and other scripts...
-- ![c++](https://img.shields.io/badge/-C%2B%2B-green?style=flat-round&logo=C%2B%2B),JSON Coding for Media softwares
 
 <!--
 **KoreTeknology/KoreTeknology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
