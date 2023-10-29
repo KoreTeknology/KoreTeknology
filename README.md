@@ -13,16 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-round&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-round&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat-round&logo=javascript)
-![php](https://img.shields.io/badge/-PHP-563D7C?style=flat-round&logo=php)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-round&logo=bootstrap)
+![php](https://img.shields.io/badge/-PHP-563D7C?style=flat-round&logo=php)-->
 ![c++](https://img.shields.io/badge/-C%2B%2B-green?style=flat-round&logo=C%2B%2B)
 ![Python](https://img.shields.io/badge/-PYTHON-lightblue?style=flat-round&logo=PYTHON)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-round&logo=bootstrap)
+<!--
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-round&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-round&logo=mysql)
+-->
 
 ---
 <!--
