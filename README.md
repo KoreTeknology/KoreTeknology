@@ -1,4 +1,6 @@
-- Project Manager/Artist/developper in a wide variety of multimedia projects.
+- Digital Strategist, Creative Technologist, AI LLM Trainer
+- GPT, GEMINI, Mistral, Python/JS Developer, 3D Technical engineer
+- Audio/Video Engineer, Project Director in a wide variety of multimedia projects.
 - Expert in Web applications, GIS Mapping, 3d Animation and Visual FX.
 - Trainer/Expert in Advanced Media Creation and Production
 ------------------------------------------------------------------------------------
