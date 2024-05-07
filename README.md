@@ -1,9 +1,9 @@
 - Digital Strategist, Creative Technologist, AI LLM Trainer
-- GPT, GEMINI, Mistral, Python/JS Developer, 3D Technical engineer
+- GPT, GEMINI, Mistral, Python/JS Developer, 3D Technical Engineer
 - Audio/Video Engineer, Project Director in a wide variety of multimedia projects.
 - Expert in Web applications, GIS Mapping, 3d Animation and Visual FX.
 - Trainer/Expert in Advanced Media Creation and Production
-------------------------------------------------------------------------------------
+<!--------------------------------------------------------------------------------------
 
 I produce multimedia contents from 1991 for many companies or organisations, publishing, illustrations and visual/audio production. I'm passionated about art in general and all my research, professional and personal are images/sounds oriented. I'm always interested in computer related educational projects.
 
@@ -18,7 +18,7 @@ I produce multimedia contents from 1991 for many companies or organisations, pub
 - Javascript libraries: JQuery, Leaflet, Bootstrap,and more...
 - CMS Joomla, OsClass, Wordpress, and other scripts...
 
-<!--
+
 **KoreTeknology/KoreTeknology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
