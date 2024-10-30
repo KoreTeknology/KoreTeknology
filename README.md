@@ -1,4 +1,4 @@
-Linkedin: [linkedin.com/in/urieldeveaud/](https://www.linkedin.com/in/urieldeveaud/)
+Connect with me on Linkedin: [linkedin.com/in/urieldeveaud/](https://www.linkedin.com/in/urieldeveaud/)
 - Digital Strategist, Creative Technologist, AI LLM Trainer
 - ComfyUI, Python/JS Developer, AI Technical Engineer
 - Audio/Video Engineer, Project Director in a wide variety of multimedia projects.
